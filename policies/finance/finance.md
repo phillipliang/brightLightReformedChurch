@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [归正明光教会《财务管理制度》](#%E5%BD%92%E6%AD%A3%E6%98%8E%E5%85%89%E6%95%99%E4%BC%9A%E3%80%8A%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6%E3%80%8B)
+  - [总则](#%E6%80%BB%E5%88%99)
+  - [会计基础工作](#%E4%BC%9A%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%B7%A5%E4%BD%9C)
+  - [财务人员设置](#%E8%B4%A2%E5%8A%A1%E4%BA%BA%E5%91%98%E8%AE%BE%E7%BD%AE)
+    - [岗位职责](#%E5%B2%97%E4%BD%8D%E8%81%8C%E8%B4%A3)
+  - [收入管理](#%E6%94%B6%E5%85%A5%E7%AE%A1%E7%90%86)
+  - [支出管理](#%E6%94%AF%E5%87%BA%E7%AE%A1%E7%90%86)
+    - [出报销的一般程序](#%E5%87%BA%E6%8A%A5%E9%94%80%E7%9A%84%E4%B8%80%E8%88%AC%E7%A8%8B%E5%BA%8F)
+    - [支出报销的一般规定](#%E6%94%AF%E5%87%BA%E6%8A%A5%E9%94%80%E7%9A%84%E4%B8%80%E8%88%AC%E8%A7%84%E5%AE%9A)
+    - [专项奉献支出的一般规定](#%E4%B8%93%E9%A1%B9%E5%A5%89%E7%8C%AE%E6%94%AF%E5%87%BA%E7%9A%84%E4%B8%80%E8%88%AC%E8%A7%84%E5%AE%9A)
+  - [借款和备用金管理](#%E5%80%9F%E6%AC%BE%E5%92%8C%E5%A4%87%E7%94%A8%E9%87%91%E7%AE%A1%E7%90%86)
+  - [货币资金管理](#%E8%B4%A7%E5%B8%81%E8%B5%84%E9%87%91%E7%AE%A1%E7%90%86)
+  - [财务监督和公开透明](#%E8%B4%A2%E5%8A%A1%E7%9B%91%E7%9D%A3%E5%92%8C%E5%85%AC%E5%BC%80%E9%80%8F%E6%98%8E)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 归正明光教会《财务管理制度》
 
 ## 总则
